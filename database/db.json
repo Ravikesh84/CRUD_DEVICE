@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Iphone 15 Pro Max",
+      "brand": "Apple",
+      "category": "Smartphone",
+      "price": 151700,
+      "description": "Apple iPhone 15 Pro Max (256 GB) - ",
+      "images": "1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "price": 129999,
+      "description": "Samsung Galaxy S24 Ultra (Titanium Black, 12GB, 256GB Storage)",
+      "images": "2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "category": "Smartphone",
+      "price": 64999,
+      "description": "OnePlus 12 (Glacial White, 12GB RAM, 256GB Storage)",
+      "images": "3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Xiaomi 14",
+      "brand": "Xiaomi",
+      "category": "Smartphone",
+      "price": 69999,
+      "description": "Xiaomi 14 (Black, 12GB RAM, 512GB Storage)",
+      "images": "4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Samsung Galaxy Watch4",
+      "brand": "MSI",
+      "category": "SmartWatch",
+      "price": 1499,
+      "description": "Samsung Galaxy Watch4(4.6cm, Black)",
+      "images": "5.jpg"
+    }
+  ]
+}
